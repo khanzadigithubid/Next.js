@@ -1,0 +1,5 @@
+Component
+
+Component are reusable pieces of code that represent a part of your user interface.
+
+Component can contain other Components and can receive props and states.
